@@ -14,3 +14,5 @@ def smorse(inp):
     print(result)
  
 smorse(input('word:'))
+
+print(smorse('manish'))
